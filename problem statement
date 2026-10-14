@@ -1,0 +1,16 @@
+Problem Statement : The Athlete Performance Analysis Assistant
+The Challenge
+Athletes generate large amounts of performance data during training and competitions, including fitness metrics, match statistics, and workload indicators. Coaches often struggle to convert this raw data into actionable insights that improve performance.
+The Objective
+Build an AI‑powered Athlete Performance Analysis Assistant that evaluates athlete performance using training data, fitness metrics, and match statistics.
+Performance Data Retrieval (RAG) :– Collect athlete statistics, training records, and fitness data.
+Performance Trend Analysis :– Identify strengths, weaknesses, and improvement opportunities.
+Training Recommendations :- Suggest personalized training strategies based on performance patterns.
+Coaching Insights :– Provide clear summaries and reports for coaching staff.
+Multi‑Agent System
+Athlete Data Agent – Retrieves training and performance data.
+Performance Analysis Agent – Evaluates performance metrics and trends.
+Training Recommendation Agent – Suggests improvement strategies.
+Coaching Insight Agent – Generates performance reports.
+Visualization Dashboard
+Display performance trends, fitness metrics, improvement suggestions, and athlete comparisons.
